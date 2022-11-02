@@ -17,3 +17,10 @@
 6th: [11,16,21] - [8,12,22]
 
 7th: [8,11,12,16,21,22
+
+
+-*Big-O gösterimini yazınız.*
+
+O(nlogn)
+
+patika.dev
